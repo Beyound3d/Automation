@@ -1,5 +1,5 @@
 # Pythan-Automation
-no use of Web-Scraping, selanium browser
+no use of Web-Scraping, selenium browser
 
 # Tool:
 pip install googlesearch-python.
