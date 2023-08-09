@@ -2,7 +2,9 @@
 no use of Web-Scraping, selenium browser
 
 # Tool:
-pip install googlesearch-python.
+```pip install googlesearch-python.
+```
 
 # Run:
-python.exe "filepath".py 
+```python.exe "filepath".py
+``` 
